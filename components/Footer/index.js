@@ -24,7 +24,7 @@ export const Footer = () => {
     return (
         <FooterContainer>
             <FooterContent>
-                <Copyright>© {new Date().getFullYear()} Food Order App. All rights reserved.</Copyright>
+                <Copyright>© {new Date().getFullYear()} Food Order App By Pxman. All rights reserved.</Copyright>
             </FooterContent>
         </FooterContainer>
     );
