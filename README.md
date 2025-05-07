@@ -1,5 +1,6 @@
 # order-food
 
+```
 my-zustand-counter/
 ├── app/
 │   ├── page.js         # Trang chính
@@ -13,8 +14,10 @@ my-zustand-counter/
 ├── public/             # Tài nguyên tĩnh
 ├── next.config.js
 └── package.json
+```
 ===============================================================
 
+```
 /app
   /components
     /Button - Nút tái sử dụng với nhiều kiểu dáng
@@ -34,3 +37,4 @@ my-zustand-counter/
   /checkout/page.js - Trang thanh toán
   /layout.js - Layout chung
 /lib/registry.js - Cấu hình cho styled-components SSR
+```
